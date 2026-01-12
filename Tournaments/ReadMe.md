@@ -1,6 +1,6 @@
 ## Турниры
 
-[Winnegry](Winnegry/ReadMe.md)
+[Winnergy](Winnergy/ReadMe.md)
 
 [MCL](MCL/ReadMe.md)
 
