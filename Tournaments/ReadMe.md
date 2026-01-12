@@ -1,7 +1,7 @@
 ## Турниры
 
-[Winnegry](Tournaments/Winnegry/ReadMe.md)
+[Winnegry](Winnegry/ReadMe.md)
 
-[MCL](Tournaments/MCL/ReadMe.md)
+[MCL](MCL/ReadMe.md)
 
-[RusFoot](Tournaments/RusFoot/ReadMe.md)
+[RusFoot](RusFoot/ReadMe.md)
