@@ -30,4 +30,8 @@
 
 #### RusFoot
 
-![RusFoot](RusFoot/RusFoot.png)
+[Текущий тур](RusFoot/RusFoot.png)
+
+[Календарь]()
+
+[Турнирная таблица]()
