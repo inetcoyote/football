@@ -9,4 +9,4 @@ RusFoot
 
 MCL
 
-![MCL](MCL/MCL.png)
+![MCL](MCL/MCL.jpg)
