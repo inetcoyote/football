@@ -2,9 +2,16 @@
 
 [Текущий тур](https://m.vk.com/winnergycup)
 
-[Календарь](https://winnergycup.ru/tournament/1060442/calendar)
+[Календарь 2017В](https://winnergycup.ru/tournament/1060442/calendar)
 
-[Турнирная таблица](https://winnergycup.ru/tournament/1060442/tables)
+[Турнирная таблица 2017В](https://winnergycup.ru/tournament/1060442/tables)
+
+_____
+
+[Календарь 2018A](https://winnergycup.ru/tournament/1060443/calendar)
+
+[Турнирная таблица 2018A](https://winnergycup.ru/tournament/1060443/tables)
+
 
 |Номер тура| Дата       | Время | Игра                 |
 |------|------------|-------|----------------------|
