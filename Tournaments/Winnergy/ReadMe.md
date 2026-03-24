@@ -1,6 +1,8 @@
 ## Турниры Winnergy
 
-[Winnergy Осень 2025]()
+[Winnergy Весна 2026](Winnergy_Spring_26/Winnergy_Spring_26.md)
+
+[Winnergy Зима 2026](Winnergy_Winter_25_26/Winnergy_Winter_25-26.md)
 
 -----
 Новогодний 2025-26
@@ -11,4 +13,5 @@
 
 -----
 
-[Winnergy Зима 2026](Winnergy_Winter_25_26/Winnergy_Winter_25-26.md)
+[Winnergy Осень 2025]()
+
