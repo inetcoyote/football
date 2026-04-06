@@ -1,8 +1,8 @@
 ## MCL Весна 2026
 
-[Календарь](https://mosff.ru/tournament/1036/calendar)
+[Календарь](https://mosff.ru/tournament/1136/calendar)
 
-[Турнирная таблица](https://mosff.ru/tournament/1036)
+[Турнирная таблица](https://mosff.ru/tournament/1136)
 
 ### Календарь Турнира
 
